@@ -28,5 +28,6 @@ Some of the skills and technologies I'm proficient in include:
 
 - LinkedIn: https://www.linkedin.com/in/zainab-lakho-339223241
 - Email: Zainablakho2015@gmail.com
+- Portfolio: https://zlakho.github.io/My-Portfolio/
 
 Let's connect and collaborate on exciting projects together!
