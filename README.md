@@ -10,6 +10,8 @@ Hey there! 👋 I'm ,Zainab Lakho a passionate AI engineer with a keen interest 
 
 ## Projects
 
+Do check out my Repo for Amazing content on this link : https://github.com/ZLakho?tab=repositories
+
 Feel free to explore my repositories for more projects and code!
 
 ## Skills
