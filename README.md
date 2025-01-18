@@ -1,7 +1,8 @@
 # Welcome to My GitHub Repository!
 <br>
 <br>
-## About Me
+
+# About Me
 
 Hey there! 👋 I'm ,Zainab Lakho a passionate AI engineer with a keen interest in leveraging technology to solve real-world problems. I have a keen interest in AI and sub fields.
 - 🌱 I’m currently learning Machine Learning.
@@ -32,7 +33,7 @@ Some of the skills and technologies I'm proficient in include:
 <br>
 <br>
 <br>
-## 🌍 Let's Connect:
+#### 🌍 Let's Connect:
 <div align="center">
     <a href="https://zlakho.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="portfolio"></a>
     <a href="Zainablakho2015@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
