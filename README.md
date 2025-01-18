@@ -32,7 +32,7 @@ Some of the skills and technologies I'm proficient in include:
 <br>
 <br>
 <br>
-<h1>Find Me Here</h1>
+<h2>Find Me Here</h2>
 <br>
 <div align="center">
     <a href="https://zlakho.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="portfolio"></a>
