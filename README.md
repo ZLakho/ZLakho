@@ -23,11 +23,11 @@ Some of the skills and technologies I'm proficient in include:
 - Machine Learning: [using Sklearn].
 - Web Development: [HTML,CSS,javascript].
  
-
-## Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/zainab-lakho-339223241
-- Email: Zainablakho2015@gmail.com
-- Portfolio: https://zlakho.github.io/My-Portfolio/
-
+ 
+#### 🌍 Let's Connect:
+<div align="center">
+    <a href="https://zlakho.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="portfolio"></a>
+    <a href="Zainablakho2015@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/zainab-lakho-339223241"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
+</div>
 Let's connect and collaborate on exciting projects together!
