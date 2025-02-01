@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,13,14,15,16,17,18,19&height=200&section=header&text=Hi%20👋,%20I'm%20Zainab%20Lakho&fontSize=32&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20|%20Frontend%20Developer%20|%20Data%20Analyst&descAlignY=75&descAlign=60&rotate=10" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,13,14,15,16,17,18,19&height=200&section=header&text=Hi%20👋,%20I'm%20Zainab%20Lakho&fontSize=32&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20|%20Frontend%20Developer%20|%20Data%20Analyst&descAlignY=75&descAlign=50" width="100%" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7BA5F7&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Passionate+about+AI+%26+Machine+Learning;Turning+Ideas+into+Reality;Data+%E2%9D%A4+Code+%E2%9D%A4+Innovation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7BA5F7&center=true&vCenter=true&width=500&height=100&lines=Passionate+about+AI+%26+Machine+Learning;Turning+Ideas+into+Reality;Data+%E2%9D%A4+Code+%E2%9D%A4+Innovation" />
 </div>
+
 
 <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px" alt="Technical Animation"/>
 
