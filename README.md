@@ -16,8 +16,8 @@ class AIEngineer:
     def __init__(self):
         self.name = "Zainab Lakho"
         self.role = "AI Engineer"
-        self.language_spoken = ["hi_IN", "en_US"]
-        self.current_focus = "Machine Learning"
+        self.language_spoken = ["hi_Ur", "en_US"]
+        self.current_focus = "Artificial Intelligence"
         
     def say_hi(self):
         print("Thanks for visiting my GitHub! Let's build something amazing together!")
@@ -54,6 +54,8 @@ me.say_hi()
 | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ███████░░░ |
 | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | █████████░ |
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | █████████░ |
+| ![AI Agents](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | █████████░ |
+| ![RAG System](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | █████████░ |
 
 </div>
 </details>
@@ -82,8 +84,8 @@ me.say_hi()
 ### 🌟 Current Focus
 
 ```text
-AI Developer         ███████████████░░░░░   75%
-Frontend Developer   ████████████░░░░░░░░   60%
+AI Developer        ███████████████░░░░░   75%
+Frontend Developer  ████████████░░░░░░░░   60%
 SQA Automation      ██████████░░░░░░░░░░   50%
 Solution Architect  ████████░░░░░░░░░░░░   40%
 Research & Dev      ███████░░░░░░░░░░░░░   35%
