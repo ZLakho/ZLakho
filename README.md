@@ -6,7 +6,8 @@
 
 
 
-
+<br>
+<br>
 <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px" alt="Technical Animation" style="padding-top: 20px;" />
 
 ### 👨‍💻 About Me
