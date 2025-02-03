@@ -107,11 +107,14 @@ Research & Dev      ███████░░░░░░░░░░░░░
 </div>
 
 <br/>
-
+<br>
+<br>
+<br>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote"/>
 </div>
-
+<br>
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,13,14,15,16,17,18,19&height=100&section=footer&rotate=10" width="100%" />
 </div>
