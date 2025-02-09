@@ -3,9 +3,6 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7BA5F7&center=true&vCenter=true&width=500&height=100&lines=Passionate+about+AI+%26+Machine+Learning;Turning+Ideas+into+Reality;Data+%E2%9D%A4+Code+%E2%9D%A4+Innovation" />
 </div>
-
-
-
 <br>
 <br>
 <br>
