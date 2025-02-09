@@ -14,7 +14,7 @@ class AIEngineer:
     def __init__(self):
         self.name = "Zainab Lakho"
         self.role = "AI Engineer"
-        self.language_spoken = ["hi_Ur", "en_US"]
+        self.language_spoken = ["ur", "en_US"]
         self.current_focus = "Artificial Intelligence"
         
     def say_hi(self):
