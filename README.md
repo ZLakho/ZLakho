@@ -94,7 +94,7 @@ Research & Dev      ███████░░░░░░░░░░░░░
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://zlakho.github.io/My-Portfolio/">
+  <a href="https://zainab-lakho-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/zainab-lakho-339223241">
